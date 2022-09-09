@@ -476,7 +476,7 @@ ul {
     letter-spacing: 0.03em;
     color: #212121;
     padding: 6px 25px;
-    transition-property: background, color, box-shadow;
+    transition-property: background-color, color, box-shadow;
     transition-duration: 500ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
